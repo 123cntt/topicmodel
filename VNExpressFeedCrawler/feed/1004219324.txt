@@ -1,0 +1,4 @@
+numOfComment=4
+testArticles=http://vnexpress.net/tin-tuc/the-gioi/tinh-nguoi-xa-xu/ba-thang-o-philippines-3219687.html,http://vnexpress.net/tin-tuc/the-gioi/tinh-nguoi-xa-xu/troi-noi-noi-xu-nguoi-3221281.html,
+articles=http://sohoa.vnexpress.net/tin-tuc/doi-song-so/ceo-nguyen-tu-quang-se-dich-than-gioi-thieu-bphone-3223726.html,http://vnexpress.net/tin-tuc/the-gioi/tinh-nguoi-xa-xu/xa-ca-ch-o-dong-au-3222525.html,http://vnexpress.net/tin-tuc/the-gioi/tinh-nguoi-xa-xu/ba-thang-o-philippines-3219687.html,http://vnexpress.net/tin-tuc/the-gioi/tinh-nguoi-xa-xu/troi-noi-noi-xu-nguoi-3221281.html,
+comments=sao không dùng từ Vphonne cho đúng nghĩa việt nam - V đại diện cho từ việt nam,chiến tranh-chia cắt-hoàn cảnh người mẹ trong bài thơ thật cám cảnh cảm ơn các bạn đồng cảm,ok,hay,

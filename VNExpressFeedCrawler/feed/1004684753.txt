@@ -1,0 +1,4 @@
+numOfComment=4
+testArticles=http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/lam-gi-de-sinh-loi-tu-von-50-trieu-dong-3261815.html,http://vnexpress.net/tin-tuc/tam-su/toi-nghi-minh-bi-hoang-tuong-3240677.html,
+articles=http://sohoa.vnexpress.net/tin-tuc/san-pham/dien-thoai/iphone-6s-mau-hong-chay-hang-tai-singapore-3284957.html,http://vnexpress.net/tin-tuc/tam-su/phai-xu-tri-sao-khi-bi-ban-noi-xau-sau-lung-3276196.html,http://kinhdoanh.vnexpress.net/tin-tuc/tien-cua-toi/lam-gi-de-sinh-loi-tu-von-50-trieu-dong-3261815.html,http://vnexpress.net/tin-tuc/tam-su/toi-nghi-minh-bi-hoang-tuong-3240677.html,
+comments=chắc lại phải bán 5 tấn lúa nữa rồi :))),Quan tâm người ta nói làm gì. 1 mình vậy củng tốt mà. Mình củng 22t,30tr đủ không bạn. Tiền thuê mặt bằng, tiền mua mới tủ đông, dựng nhà bếp, bàn ghế ... Mình thấy có vấn đề,sao ko nge ai nói tới vấn đề tâm linh nhỉ Có thể là tâm linh đó bạn Không thấy ai nhắc tới vấn đề tâm linh nhỉ,

@@ -1,0 +1,18 @@
+------> Actions=news
+--> Phan comment
+#feed_content > ul > li:nth-child(1) > div > p
+
+--> Phan bai bao
+#feed_content > ul > li:nth-child(1) > div > a
+
+--> Timestamp
+#feed_content > ul > li:nth-child(1) > div > ul > li.time
+
+
+
+-----> Action=articles
+
+#feed_content > ul > li:nth-child(1) > div
+
+
+#feed_content > ul > li:nth-child(1) > div > i

@@ -1,0 +1,13 @@
+CSS Path
+
+#box_details_news > div > div > div.width_common.line_col_480.space_bottom_20 > div.block_col_480
+
+#left_calculator > div.fck_detail.width_common
+
+#box_details_news > div > div > div.width_common.line_col_480.space_bottom_20 > div.block_col_480 > div.title_news
+
+#box_details_news > div > div > div.width_common.line_col_480.space_bottom_20 > div.block_col_480 > div.short_intro.txt_666
+
+#box_details_news > div > div > div.width_common.line_col_480.space_bottom_20 > div.block_col_480 > div.block_timer_share > div.block_timer.left.txt_666
+
+#left_calculator > div.block_timer_share > div.block_timer.left.txt_666
